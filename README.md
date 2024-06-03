@@ -12,6 +12,8 @@ Currently working on various projects such as
 
 ## Stats 
 
+[CodeStats](https://codestats.net/users/vitalised)
+
 [![VITALISED's GitHub stats](https://github-readme-stats.vercel.app/api?username=VITALISED&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VITALISED&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
