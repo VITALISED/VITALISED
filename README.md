@@ -8,7 +8,7 @@ Currently working on various projects such as
 
 ## Contact
  * Discord `vitalised`
- * Email `will@k0.tel`
+ * Enquiries  `info@sonny.tel`
 
 ## Stats 
 
